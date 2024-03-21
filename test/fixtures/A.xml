@@ -1,0 +1,1070 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" version="1.0" producer="" languages=""
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
+    <page width="2555" height="3532" resolution="300" originalCoords="1">
+        <block blockType="Text" l="184" t="156" r="249" b="3105">
+            <region>
+                <rect l="184" t="156" r="246" b="591"/>
+                <rect l="184" t="591" r="247" b="600"/>
+                <rect l="185" t="600" r="247" b="1761"/>
+                <rect l="185" t="1761" r="248" b="1771"/>
+                <rect l="186" t="1771" r="248" b="2932"/>
+                <rect l="186" t="2932" r="249" b="2941"/>
+                <rect l="187" t="2941" r="249" b="3105"/>
+            </region>
+            <text>
+                <par leftIndent="900" lineSpacing="1330">
+                    <line baseline="384" l="222" t="354" r="238" b="384">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">1</formatting>
+                    </line>
+                </par>
+                <par leftIndent="900" lineSpacing="2880">
+                    <line baseline="504" l="220" t="473" r="237" b="504">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="10.5" bold="1" scaling="900">2</formatting>
+                    </line>
+                </par>
+                <par leftIndent="900" lineSpacing="2880">
+                    <line baseline="624" l="220" t="592" r="238" b="624">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1" spacing="20">3</formatting>
+                    </line>
+                </par>
+                <par leftIndent="900" lineSpacing="1050">
+                    <line baseline="737" l="221" t="709" r="235" b="737">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1" spacing="20">4</formatting>
+                    </line>
+                </par>
+                <par leftIndent="900" lineSpacing="2832">
+                    <line baseline="856" l="221" t="825" r="238" b="856">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1" spacing="20">5</formatting>
+                    </line>
+                </par>
+                <par leftIndent="900" lineSpacing="2832">
+                    <line baseline="974" l="221" t="943" r="238" b="974">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="10.5">6</formatting>
+                    </line>
+                </par>
+                <par leftIndent="900" lineSpacing="2832">
+                    <line baseline="1090" l="220" t="1061" r="236" b="1090">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">7</formatting>
+                    </line>
+                </par>
+                <par leftIndent="900" lineSpacing="2832">
+                    <line baseline="1209" l="220" t="1178" r="236" b="1209">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="10.5">8</formatting>
+                    </line>
+                </par>
+                <par leftIndent="900" lineSpacing="1050">
+                    <line baseline="1318" l="221" t="1289" r="238" b="1318">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1" spacing="20">9</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="2664">
+                    <line baseline="1429" l="196" t="1399" r="237" b="1429">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="10." bold="1" spacing="10">10</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="2664">
+                    <line baseline="1541" l="195" t="1512" r="236" b="1541">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1" spacing="10">11</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="2664">
+                    <line baseline="1651" l="195" t="1622" r="236" b="1651">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1" spacing="20">12</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="2664">
+                    <line baseline="1762" l="195" t="1732" r="237" b="1762">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1" spacing="20">13</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="2664">
+                    <line baseline="1872" l="196" t="1844" r="235" b="1872">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1" spacing="20">14</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="2664">
+                    <line baseline="1983" l="196" t="1954" r="237" b="1983">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1" spacing="20">15</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="2664">
+                    <line baseline="2095" l="195" t="2065" r="238" b="2095">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1" spacing="20">16</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="2664">
+                    <line baseline="2204" l="195" t="2177" r="236" b="2205">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1" spacing="20">17</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="2664">
+                    <line baseline="2316" l="196" t="2287" r="236" b="2316">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1" spacing="20">18</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="2664">
+                    <line baseline="2428" l="195" t="2399" r="237" b="2428">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1" spacing="20">19</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="2664">
+                    <line baseline="2540" l="194" t="2510" r="237" b="2540">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="10." spacing="20">20</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="2664">
+                    <line baseline="2653" l="194" t="2623" r="236" b="2653">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1" spacing="20">21</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="2664">
+                    <line baseline="2764" l="194" t="2734" r="236" b="2764">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="10." bold="1" spacing="20">22</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="2664">
+                    <line baseline="2877" l="194" t="2847" r="237" b="2877">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1" spacing="20">23</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="2664">
+                    <line baseline="2987" l="194" t="2958" r="235" b="2987">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1" spacing="20">24</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="2664">
+                    <line baseline="3099" l="194" t="3069" r="237" b="3099">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1" spacing="20">25</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="289" t="345" r="1222" b="590">
+            <region>
+                <rect l="688" t="345" r="1222" b="346"/>
+                <rect l="289" t="346" r="1222" b="589"/>
+                <rect l="290" t="589" r="697" b="590"/>
+            </region>
+            <text>
+                <par align="Justified" lineSpacing="1440">
+                    <line baseline="398" l="303" t="357" r="1178" b="406">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." bold="1">LAW OFFICES OF C. JOE SAYAS, JR.</formatting>
+                    </line>
+                </par>
+                <par align="Justified" lineSpacing="1440">
+                    <line baseline="458" l="304" t="415" r="1080" b="469">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">C. JOE SAYAS, JR. (Bar No. 122397)</formatting>
+                    </line>
+                </par>
+                <par align="Justified" lineSpacing="1440">
+                    <line baseline="516" l="303" t="474" r="1216" b="527">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">KARL P. EVANGELISTA (Bar No. 250685)</formatting>
+                    </line>
+                    <line baseline="577" l="304" t="536" r="1008" b="586">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">500 N. Brand Boulevard, Suite 980</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="296" t="590" r="863" b="768">
+            <region>
+                <rect l="688" t="590" r="862" b="591"/>
+                <rect l="296" t="591" r="863" b="600"/>
+                <rect l="297" t="600" r="863" b="767"/>
+                <rect l="297" t="767" r="697" b="768"/>
+            </region>
+            <text>
+                <par align="Justified" lineSpacing="1368">
+                    <line baseline="637" l="303" t="596" r="857" b="647">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">Glendale, California 91203</formatting>
+                    </line>
+                    <line baseline="696" l="303" t="656" r="850" b="707">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">Telephone: (818) 291-0088</formatting>
+                    </line>
+                    <line baseline="752" l="303" t="713" r="833" b="762">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">Facsimile: (818) 240-9955</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="1335" t="309" r="1589" b="475">
+            <region>
+                <rect l="1335" t="309" r="1589" b="475"/>
+            </region>
+            <text>
+                <par lineSpacing="4100">
+                    <line baseline="472" l="1336" t="342" r="1574" b="475">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="37." scaling="800">&lt;ifU\</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="296" t="822" r="1087" b="887">
+            <region>
+                <rect l="688" t="822" r="1087" b="823"/>
+                <rect l="296" t="823" r="1087" b="886"/>
+                <rect l="296" t="886" r="697" b="887"/>
+            </region>
+            <text>
+                <par lineSpacing="1330">
+                    <line baseline="869" l="302" t="828" r="1081" b="881">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">Attorneys for Plaintiff Angelo Angeles</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="1797" t="395" r="2363" b="847">
+            <region>
+                <rect l="1858" t="395" r="2362" b="396"/>
+                <rect l="1797" t="396" r="2362" b="591"/>
+                <rect l="1797" t="591" r="2363" b="600"/>
+                <rect l="1798" t="600" r="2363" b="846"/>
+                <rect l="1798" t="846" r="1867" b="847"/>
+            </region>
+            <text>
+                <par align="Center" rightIndent="100" lineSpacing="1660">
+                    <line baseline="458" l="1989" t="401" r="2178" b="456">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="15." bold="1">FILED</formatting>
+                    </line>
+                </par>
+                <par align="Center" rightIndent="100" lineSpacing="768">
+                    <line baseline="500" l="1803" t="463" r="2356" b="505">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" smallcaps="1">SUPERIOR COURT OFCAUFDRNM</formatting>
+                    </line>
+                    <line baseline="531" l="1872" t="487" r="2306" b="535">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" smallcaps="1">COUNTYOFLOSANGFlST</formatting>
+                    </line>
+                </par>
+                <par align="Center" rightIndent="100" lineSpacing="1990">
+                    <line baseline="645" l="1944" t="583" r="2225" b="651">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="18." bold="1" scaling="500">JAN </formatting>
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="18.">312017</formatting>
+                    </line>
+                </par>
+                <par leftIndent="7900" startIndent="-7900" lineSpacing="1608">
+                    <line baseline="749" l="1810" t="714" r="2343" b="767">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1">Sherri R. Cartefcgecutive Officer/Clerk</formatting>
+                    </line>
+                    <line baseline="836" l="2129" t="777" r="2331" b="813">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1">-</formatting>
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1" superscript="1">DeTO</formatting>
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1">&apos;</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="904" t="1175" r="1800" b="1225">
+            <region>
+                <rect l="904" t="1175" r="1800" b="1225"/>
+            </region>
+            <text>
+                <par lineSpacing="1330">
+                    <line baseline="1220" l="920" t="1180" r="1784" b="1221">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." bold="1">SUPERIOR COURT OF CALIFORNIA</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="746" t="1284" r="1960" b="1343">
+            <region>
+                <rect l="1858" t="1284" r="1960" b="1285"/>
+                <rect l="746" t="1285" r="1960" b="1342"/>
+                <rect l="746" t="1342" r="1867" b="1343"/>
+            </region>
+            <text>
+                <par lineSpacing="1330">
+                    <line baseline="1331" l="761" t="1293" r="1943" b="1338">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." bold="1">COUNTY OF LOS ANGELES, CENTRAL DISTRICT</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="290" t="1391" r="1050" b="1566">
+            <region>
+                <rect l="688" t="1391" r="1050" b="1392"/>
+                <rect l="290" t="1392" r="1050" b="1456"/>
+                <rect l="326" t="1456" r="1050" b="1565"/>
+                <rect l="326" t="1565" r="697" b="1566"/>
+            </region>
+            <text>
+                <par leftIndent="7800" startIndent="-7800" lineSpacing="2664">
+                    <line baseline="1442" l="302" t="1403" r="1044" b="1451">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">ANGELO ANGELES, an individual,</formatting>
+                    </line>
+                    <line baseline="1554" l="616" t="1515" r="787" b="1562">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">Plaintiff,</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="1286" t="1393" r="1574" b="1511">
+            <region>
+                <rect l="1286" t="1393" r="1574" b="1511"/>
+            </region>
+            <text>
+                <par lineSpacing="1608">
+                    <line baseline="1440" l="1302" t="1402" r="1558" b="1449">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">) Case No.:</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="1608">
+                    <line baseline="1507" l="1302" t="1459" r="1316" b="1506">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="11." bold="1">)</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="1770" t="1374" r="2214" b="1473">
+            <region>
+                <rect l="1858" t="1374" r="2214" b="1375"/>
+                <rect l="1770" t="1375" r="2214" b="1472"/>
+                <rect l="1771" t="1472" r="1867" b="1473"/>
+            </region>
+            <text>
+                <par align="Justified">
+                    <line baseline="1460" l="1787" t="1393" r="2199" b="1470">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="21." bold="1" scaling="700">B C </formatting>
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="21." bold="1" superscript="1" scaling="700">6</formatting>
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="21." bold="1" scaling="700"> 4 8 7 4 4</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="1286" t="1511" r="1810" b="1621">
+            <region>
+                <rect l="1286" t="1511" r="1810" b="1567"/>
+                <rect l="1286" t="1567" r="1344" b="1621"/>
+            </region>
+            <text>
+                <par lineSpacing="1330">
+                    <line baseline="1552" l="1302" t="1515" r="1805" b="1561">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." bold="1">) COMPLAINT FOR:</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="1110">
+                    <line baseline="1618" l="1303" t="1570" r="1316" b="1617">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="10." bold="1">)</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="432" t="1634" r="516" b="1670">
+            <region>
+                <rect l="432" t="1634" r="516" b="1669"/>
+                <rect l="433" t="1669" r="516" b="1670"/>
+            </region>
+            <text>
+                <par lineSpacing="1330">
+                    <line baseline="1665" l="448" t="1640" r="500" b="1665">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">vs.</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="290" t="1623" r="1333" b="1899">
+            <region>
+                <rect l="941" t="1623" r="1332" b="1624"/>
+                <rect l="940" t="1624" r="1332" b="1735"/>
+                <rect l="688" t="1735" r="1332" b="1736"/>
+                <rect l="290" t="1736" r="1332" b="1761"/>
+                <rect l="290" t="1761" r="1333" b="1771"/>
+                <rect l="291" t="1771" r="1333" b="1845"/>
+                <rect l="291" t="1845" r="1333" b="1846"/>
+                <rect l="941" t="1846" r="1333" b="1899"/>
+            </region>
+            <text>
+                <par align="Justified" leftIndent="24300" lineSpacing="1320">
+                    <line baseline="1673" l="1302" t="1626" r="1316" b="1672">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="11." bold="1">)</formatting>
+                    </line>
+                    <line baseline="1728" l="1303" t="1681" r="1316" b="1727">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="10." bold="1">)</formatting>
+                    </line>
+                </par>
+                <par align="Justified" lineSpacing="1320">
+                    <line baseline="1775" l="301" t="1735" r="1317" b="1784">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">HILL-ROM COMPANY, INC., an Indiana )</formatting>
+                    </line>
+                    <line baseline="1830" l="303" t="1792" r="1316" b="1841">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">corporation; and DOES 1 through 100, inclusive, )</formatting>
+                    </line>
+                </par>
+                <par align="Justified" leftIndent="24300" lineSpacing="1110">
+                    <line baseline="1895" l="1303" t="1847" r="1316" b="1894">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="10." bold="1">)</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="1418" t="1619" r="1474" b="1665">
+            <region>
+                <rect l="1418" t="1619" r="1474" b="1665"/>
+            </region>
+            <text>
+                <par lineSpacing="1330">
+                    <line baseline="1662" l="1433" t="1626" r="1461" b="1661">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">1.</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="1413" t="1839" r="1477" b="1887">
+            <region>
+                <rect l="1413" t="1839" r="1477" b="1887"/>
+            </region>
+            <text>
+                <par lineSpacing="1330">
+                    <line baseline="1884" l="1429" t="1847" r="1461" b="1883">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." bold="1">2</formatting>
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="6." bold="1">.</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="601" t="1895" r="867" b="1946">
+            <region>
+                <rect l="688" t="1895" r="866" b="1896"/>
+                <rect l="601" t="1896" r="867" b="1945"/>
+                <rect l="601" t="1945" r="697" b="1946"/>
+            </region>
+            <text>
+                <par lineSpacing="1330">
+                    <line baseline="1941" l="616" t="1903" r="851" b="1941">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">Defendants.</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="801" t="2221" r="863" b="2337">
+            <region>
+                <rect l="801" t="2221" r="863" b="2337"/>
+            </region>
+            <text>
+                <par align="Justified">
+                    <line baseline="2338" l="802" t="2222" r="863" b="2337">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="37." scaling="800">b</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="1413" t="2117" r="1473" b="2165">
+            <region>
+                <rect l="1413" t="2117" r="1473" b="2165"/>
+            </region>
+            <text>
+                <par lineSpacing="1330">
+                    <line baseline="2162" l="1429" t="2125" r="1461" b="2161">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">3.</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="1413" t="2397" r="1473" b="2445">
+            <region>
+                <rect l="1413" t="2397" r="1473" b="2445"/>
+            </region>
+            <text>
+                <par lineSpacing="1330">
+                    <line baseline="2440" l="1428" t="2404" r="1461" b="2440">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">4.</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="1486" t="1614" r="2409" b="2623">
+            <region>
+                <rect l="1858" t="1614" r="2372" b="1615"/>
+                <rect l="1486" t="1615" r="2372" b="1761"/>
+                <rect l="1486" t="1761" r="2373" b="1771"/>
+                <rect l="1487" t="1771" r="2373" b="2230"/>
+                <rect l="1487" t="2230" r="2409" b="2286"/>
+                <rect l="1487" t="2286" r="2383" b="2566"/>
+                <rect l="1487" t="2566" r="2025" b="2622"/>
+                <rect l="1487" t="2622" r="1867" b="2623"/>
+            </region>
+            <text>
+                <par lineSpacing="1320">
+                    <line baseline="1662" l="1504" t="1624" r="2265" b="1662">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">DISABILITY DISCRIMINATION-</formatting>
+                    </line>
+                    <line baseline="1717" l="1503" t="1679" r="2362" b="1726">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">UNLAWFUL TERMINATION </formatting>
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." italic="1">(Cal. Gov.</formatting>
+                    </line>
+                    <line baseline="1772" l="1506" t="1734" r="1870" b="1782">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." italic="1">Code § 12940(a</formatting>
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">));</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="1320">
+                    <line baseline="1884" l="1504" t="1845" r="2265" b="1883">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">DISABILITY DISCRIMINATION—</formatting>
+                    </line>
+                    <line baseline="1940" l="1504" t="1901" r="2274" b="1949">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">RETALIATION FOR REQUESTING</formatting>
+                    </line>
+                    <line baseline="1994" l="1504" t="1956" r="2302" b="1994">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">REASONABLE ACCOMMODATION</formatting>
+                    </line>
+                    <line baseline="2049" l="1504" t="2011" r="2163" b="2060">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." italic="1">{Cal. Gov. Code § 12940(m)(2))\</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="1344">
+                    <line baseline="2161" l="1503" t="2122" r="2264" b="2161">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">DISABILITY DISCRIMINATION-</formatting>
+                    </line>
+                    <line baseline="2217" l="1503" t="2179" r="2077" b="2217">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">FAILURE TO ENGAGE IN</formatting>
+                    </line>
+                    <line baseline="2273" l="1504" t="2234" r="2405" b="2282">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">INTERACTIVE PROCESS </formatting>
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." italic="1">{Cal. Gov. Code</formatting>
+                    </line>
+                    <line baseline="2330" l="1502" t="2290" r="1752" b="2338">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." italic="1">§ 12940</formatting>
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." italic="1" smallcaps="1">(h));</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="1320">
+                    <line baseline="2441" l="1504" t="2402" r="2264" b="2441">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">DISABILITY DISCRIMINATION-</formatting>
+                    </line>
+                    <line baseline="2496" l="1504" t="2458" r="2366" b="2496">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">FAILURE TO PROVIDE REASONABLE</formatting>
+                    </line>
+                    <line baseline="2553" l="1503" t="2513" r="2340" b="2562">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">ACCOMMODATION </formatting>
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." italic="1">{Cal. Gov. Code §</formatting>
+                    </line>
+                    <line baseline="2608" l="1506" t="2570" r="1725" b="2618">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." italic="1">12940(m));</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="2099" t="2592" r="2155" b="2664">
+            <region>
+                <rect l="2101" t="2592" r="2155" b="2616"/>
+                <rect l="2099" t="2616" r="2155" b="2664"/>
+            </region>
+            <text>
+                <par lineSpacing="1330">
+                    <line baseline="2619" l="2116" t="2595" r="2145" b="2617">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">TO</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="1330">
+                    <line baseline="2641" l="2115" t="2620" r="2145" b="2642">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">m</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="1330">
+                    <line baseline="2666" l="2114" t="2643" r="2145" b="2663">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">o</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="1287" t="2559" r="2217" b="2847">
+            <region>
+                <rect l="1287" t="2559" r="1413" b="2662"/>
+                <rect l="1287" t="2662" r="2217" b="2663"/>
+                <rect l="1287" t="2663" r="2217" b="2734"/>
+                <rect l="1287" t="2734" r="1867" b="2735"/>
+                <rect l="1287" t="2735" r="1413" b="2847"/>
+            </region>
+            <text>
+                <par align="Justified" lineSpacing="1110">
+                    <line baseline="2619" l="1303" t="2571" r="1316" b="2618">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="10." bold="1">)</formatting>
+                    </line>
+                </par>
+                <par align="Justified" lineSpacing="1560">
+                    <line baseline="2721" l="1302" t="2662" r="2217" b="2730">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">)    5. WRONGFUL TERMINATION </formatting>
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="21.">S&apos;</formatting>
+                    </line>
+                </par>
+                <par align="Justified" lineSpacing="1560">
+                    <line baseline="2786" l="1302" t="2724" r="2193" b="2785">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="11." bold="1">) </formatting>
+                        <formatting lang="EnglishUnitedStates" ff="Courier New" fs="10." bold="1">^</formatting>
+                    </line>
+                </par>
+                <par align="Justified" lineSpacing="1110">
+                    <line baseline="2843" l="1303" t="2795" r="1316" b="2842">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="10." bold="1">)</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="2163" t="2592" r="2313" b="2742">
+            <region>
+                <rect l="2163" t="2592" r="2313" b="2648"/>
+                <rect l="2217" t="2648" r="2313" b="2664"/>
+                <rect l="2211" t="2664" r="2313" b="2712"/>
+                <rect l="2211" t="2712" r="2309" b="2742"/>
+            </region>
+            <text>
+                <par align="Justified" leftIndent="1200" startIndent="-1200" lineSpacing="1050">
+                    <line baseline="2620" l="2172" t="2596" r="2296" b="2619">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1">O O TO</formatting>
+                    </line>
+                </par>
+                <par align="Justified" leftIndent="1200" startIndent="-1200" lineSpacing="1128">
+                    <line baseline="2645" l="2166" t="2621" r="2295" b="2643">
+                        <formatting lang="EnglishUnitedStates" ff="Courier New" fs="10." bold="1">x x- m</formatting>
+                    </line>
+                    <line baseline="2691" l="2215" t="2662" r="2294" b="2690">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">m ni</formatting>
+                    </line>
+                    <line baseline="2738" l="2211" t="2698" r="2305" b="2742">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5">31</formatting>
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." bold="1"> ai.</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="1487" t="2732" r="2353" b="2789">
+            <region>
+                <rect l="1858" t="2732" r="2353" b="2733"/>
+                <rect l="1487" t="2733" r="2353" b="2788"/>
+                <rect l="1487" t="2788" r="1867" b="2789"/>
+            </region>
+            <text>
+                <par align="Justified" lineSpacing="1330">
+                    <line baseline="2775" l="1503" t="2736" r="2348" b="2785">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">VIOLATION OF PlgBEIg    </formatting>
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." italic="1">(Cal.</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="1413" t="2899" r="1474" b="2947">
+            <region>
+                <rect l="1413" t="2899" r="1473" b="2932"/>
+                <rect l="1413" t="2932" r="1474" b="2941"/>
+                <rect l="1414" t="2941" r="1474" b="2946"/>
+                <rect l="1414" t="2946" r="1473" b="2947"/>
+            </region>
+            <text>
+                <par lineSpacing="1330">
+                    <line baseline="2944" l="1429" t="2907" r="1462" b="2943">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." bold="1" italic="1" scaling="900">6</formatting>
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="7.5" bold="1" italic="1">.</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="1487" t="2782" r="2310" b="3055">
+            <region>
+                <rect l="2197" t="2782" r="2307" b="2788"/>
+                <rect l="1858" t="2788" r="2309" b="2789"/>
+                <rect l="1487" t="2789" r="2309" b="2932"/>
+                <rect l="1487" t="2932" r="2310" b="2941"/>
+                <rect l="1488" t="2941" r="2310" b="3054"/>
+                <rect l="1488" t="3054" r="1867" b="3055"/>
+            </region>
+            <text>
+                <par align="Justified" lineSpacing="1330">
+                    <line baseline="2832" l="1506" t="2786" r="2291" b="2841">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." italic="1">Gov. Code § 12900</formatting>
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12."> 3    &quot;    .? *</formatting>
+                    </line>
+                </par>
+                <par leftIndent="11300" lineSpacing="1000">
+                    <line baseline="2877" l="1959" t="2852" r="2240" b="2882">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9." bold="1">ni n# jx 1</formatting>
+                    </line>
+                </par>
+                <par align="Justified" lineSpacing="1320">
+                    <line baseline="2944" l="1503" t="2906" r="2293" b="2956">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">INTENTIONAL INFLICTION </formatting>
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." italic="1">I</formatting>
+                    </line>
+                    <line baseline="2999" l="1504" t="2955" r="2291" b="3007">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">EMOTIONAL DISTRESS; 8 C &amp;</formatting>
+                    </line>
+                </par>
+                <par align="Right" lineSpacing="730">
+                    <line baseline="3051" l="2206" t="3029" r="2289" b="3050">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="6.5" scaling="750">--J </formatting>
+                        <formatting lang="EnglishUnitedStates" ff="Arial" fs="6.5" italic="1">&gt;&apos;X)</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="2355" t="2618" r="2407" b="2672">
+            <region>
+                <rect l="2355" t="2618" r="2407" b="2648"/>
+                <rect l="2355" t="2648" r="2401" b="2672"/>
+            </region>
+            <text>
+                <par lineSpacing="1130">
+                    <line baseline="2644" l="2371" t="2622" r="2402" b="2643">
+                        <formatting lang="EnglishUnitedStates" ff="Courier New" fs="10." bold="1">m</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="1330">
+                    <line baseline="2669" l="2371" t="2646" r="2401" b="2667">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." italic="1">x&gt;</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="1286" t="2953" r="2162" b="3177">
+            <region>
+                <rect l="1286" t="2953" r="1414" b="3068"/>
+                <rect l="1286" t="3068" r="2161" b="3069"/>
+                <rect l="1286" t="3069" r="2162" b="3176"/>
+                <rect l="1286" t="3176" r="1867" b="3177"/>
+            </region>
+            <text>
+                <par lineSpacing="1110">
+                    <line baseline="3010" l="1303" t="2962" r="1316" b="3009">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="10." bold="1">)</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="1110">
+                    <line baseline="3066" l="1303" t="3017" r="1316" b="3065">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="10." bold="1">)</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="1464">
+                    <line baseline="3113" l="1302" t="3072" r="2146" b="3121">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." bold="1">) AND DEMAND FOR JURY TRIAL</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="1464">
+                    <line baseline="3173" l="1303" t="3129" r="1316" b="3172">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="10." bold="1">)</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="1882" t="3224" r="1984" b="3276">
+            <region>
+                <rect l="1882" t="3224" r="1983" b="3225"/>
+                <rect l="1882" t="3225" r="1984" b="3276"/>
+            </region>
+            <text>
+                <par align="Justified">
+                    <line baseline="3248" l="1899" t="3227" r="1978" b="3248">
+                        <formatting lang="EnglishUnitedStates" ff="Courier New" fs="4.">•bt «bt</formatting>
+                    </line>
+                </par>
+                <par align="Justified">
+                    <line baseline="3274" l="1898" t="3250" r="1978" b="3272">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">O O</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="1990" t="3176" r="2100" b="3276">
+            <region>
+                <rect l="1990" t="3176" r="2099" b="3177"/>
+                <rect l="1990" t="3177" r="2100" b="3276"/>
+            </region>
+            <text>
+                <par align="Right" lineSpacing="552">
+                    <line baseline="3226" l="2052" t="3203" r="2082" b="3224">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="6.5" italic="1">&amp;</formatting>
+                    </line>
+                    <line baseline="3249" l="2001" t="3228" r="2081" b="3248">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="6.5" scaling="660">•bt G-4</formatting>
+                    </line>
+                </par>
+                <par align="Right" lineSpacing="1330">
+                    <line baseline="3274" l="1999" t="3250" r="2081" b="3272">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">O cn</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="2188" t="3102" r="2250" b="3154">
+            <region>
+                <rect l="2188" t="3102" r="2250" b="3154"/>
+            </region>
+            <text>
+                <par lineSpacing="1330">
+                    <line baseline="3129" l="2203" t="3105" r="2234" b="3126">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">o</formatting>
+                    </line>
+                </par>
+                <par lineSpacing="1050">
+                    <line baseline="3153" l="2198" t="3129" r="2233" b="3151">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1" spacing="20">.CO</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="2184" t="3244" r="2242" b="3272">
+            <region>
+                <rect l="2184" t="3244" r="2242" b="3272"/>
+            </region>
+            <text>
+                <par lineSpacing="1330">
+                    <line baseline="3270" l="2200" t="3247" r="2229" b="3268">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12." italic="1">x&gt;</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="1880" t="3294" r="1982" b="3340">
+            <region>
+                <rect l="1880" t="3294" r="1981" b="3295"/>
+                <rect l="1880" t="3295" r="1982" b="3322"/>
+                <rect l="1880" t="3322" r="1980" b="3340"/>
+            </region>
+            <text>
+                <par align="Justified">
+                    <line baseline="3320" l="1896" t="3298" r="1977" b="3318">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">o o</formatting>
+                    </line>
+                </par>
+                <par align="Justified">
+                    <line baseline="3342" l="1896" t="3320" r="1976" b="3340">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">o o</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="1990" t="3296" r="2044" b="3340">
+            <region>
+                <rect l="1992" t="3296" r="2044" b="3318"/>
+                <rect l="1990" t="3318" r="2044" b="3340"/>
+            </region>
+            <text>
+                <par align="Justified">
+                    <line baseline="3343" l="1997" t="3321" r="2027" b="3340">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="12.">o</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Text" l="1946" t="3322" r="2096" b="3346">
+            <region>
+                <rect l="1946" t="3322" r="2096" b="3346"/>
+            </region>
+            <text>
+                <par lineSpacing="-1"></par>
+            </text>
+        </block>
+        <block blockType="Picture" l="2407" t="2860" r="2454" b="3048">
+            <region>
+                <rect l="2407" t="2860" r="2453" b="2932"/>
+                <rect l="2407" t="2932" r="2454" b="2941"/>
+                <rect l="2408" t="2941" r="2454" b="3048"/>
+            </region>
+        </block>
+        <block blockType="Text" l="909" t="3333" r="1795" b="3377">
+            <region>
+                <rect l="909" t="3333" r="1795" b="3376"/>
+                <rect l="909" t="3376" r="1794" b="3377"/>
+            </region>
+            <text>
+                <par lineSpacing="1050">
+                    <line baseline="3371" l="915" t="3339" r="1789" b="3371">
+                        <formatting lang="EnglishUnitedStates" ff="Times New Roman" fs="9.5" bold="1">COMPLAINT AND DEMAND FOR JURY TRIAL</formatting>
+                    </line>
+                </par>
+            </text>
+        </block>
+        <block blockType="Separator" l="0" t="0" r="1695" b="8">
+            <region>
+                <rect l="0" t="0" r="1695" b="1"/>
+                <rect l="0" t="1" r="1509" b="3"/>
+                <rect l="0" t="3" r="1201" b="5"/>
+                <rect l="0" t="5" r="697" b="6"/>
+                <rect l="0" t="6" r="554" b="8"/>
+            </region>
+            <separator type="Black" thickness="5">
+                <start x="3" y="4"/>
+                <end x="1698" y="4"/>
+            </separator>
+        </block>
+        <block blockType="Separator" l="1723" t="0" r="1931" b="2">
+            <region>
+                <rect l="1723" t="0" r="1931" b="1"/>
+                <rect l="1723" t="1" r="1867" b="2"/>
+            </region>
+            <separator type="Black" thickness="1">
+                <start x="1726" y="2"/>
+                <end x="1934" y="2"/>
+            </separator>
+        </block>
+        <block blockType="Separator" l="1859" t="800" r="2219" b="813">
+            <region>
+                <rect l="1859" t="800" r="1950" b="801"/>
+                <rect l="1859" t="801" r="2087" b="802"/>
+                <rect l="1859" t="802" r="2203" b="804"/>
+                <rect l="1859" t="804" r="2219" b="808"/>
+                <rect l="1859" t="808" r="2219" b="809"/>
+                <rect l="2007" t="809" r="2219" b="810"/>
+                <rect l="2008" t="810" r="2219" b="811"/>
+                <rect l="2008" t="811" r="2219" b="812"/>
+                <rect l="2008" t="812" r="2052" b="813"/>
+            </region>
+            <separator type="Black" thickness="8">
+                <start x="1861" y="808"/>
+                <end x="2221" y="808"/>
+            </separator>
+        </block>
+        <block blockType="Separator" l="298" t="3172" r="1302" b="3177">
+            <region>
+                <rect l="688" t="3172" r="1302" b="3173"/>
+                <rect l="298" t="3173" r="1302" b="3176"/>
+                <rect l="298" t="3176" r="697" b="3177"/>
+            </region>
+            <separator type="Black" thickness="4">
+                <start x="298" y="3175"/>
+                <end x="1302" y="3175"/>
+            </separator>
+        </block>
+        <block blockType="Separator" l="322" t="3293" r="2388" b="3301">
+            <region>
+                <rect l="1858" t="3293" r="2004" b="3294"/>
+                <rect l="1208" t="3294" r="2388" b="3295"/>
+                <rect l="688" t="3295" r="2388" b="3296"/>
+                <rect l="322" t="3296" r="2388" b="3298"/>
+                <rect l="322" t="3298" r="2388" b="3299"/>
+                <rect l="322" t="3299" r="1208" b="3300"/>
+                <rect l="322" t="3300" r="697" b="3301"/>
+            </region>
+            <separator type="Black" thickness="4">
+                <start x="322" y="3298"/>
+                <end x="2388" y="3298"/>
+            </separator>
+        </block>
+        <block blockType="Separator" l="0" t="3528" r="1618" b="3532">
+            <region>
+                <rect l="0" t="3528" r="644" b="3529"/>
+                <rect l="0" t="3529" r="789" b="3530"/>
+                <rect l="0" t="3530" r="1546" b="3531"/>
+                <rect l="0" t="3531" r="1618" b="3532"/>
+            </region>
+            <separator type="Black" thickness="3">
+                <start x="0" y="3530"/>
+                <end x="1618" y="3530"/>
+            </separator>
+        </block>
+        <block blockType="Separator" l="1639" t="3531" r="1788" b="3532">
+            <region>
+                <rect l="1639" t="3531" r="1788" b="3532"/>
+            </region>
+            <separator type="Black" thickness="1">
+                <start x="1639" y="3532"/>
+                <end x="1788" y="3532"/>
+            </separator>
+        </block>
+        <block blockType="Separator" l="0" t="2196" r="4" b="3532">
+            <region>
+                <rect l="0" t="2196" r="3" b="2932"/>
+                <rect l="0" t="2932" r="4" b="2936"/>
+                <rect l="0" t="2936" r="3" b="3532"/>
+            </region>
+            <separator type="Black" thickness="3">
+                <start x="2" y="2196"/>
+                <end x="2" y="3532"/>
+            </separator>
+        </block>
+        <block blockType="Separator" l="0" t="1497" r="3" b="2029">
+            <region>
+                <rect l="0" t="1497" r="2" b="1761"/>
+                <rect l="0" t="1761" r="3" b="2029"/>
+            </region>
+            <separator type="Black" thickness="2">
+                <start x="2" y="1497"/>
+                <end x="2" y="2029"/>
+            </separator>
+        </block>
+        <block blockType="Separator" l="0" t="611" r="2" b="734">
+            <region>
+                <rect l="0" t="611" r="1" b="612"/>
+                <rect l="0" t="612" r="2" b="734"/>
+            </region>
+            <separator type="Black" thickness="2">
+                <start x="3" y="611"/>
+                <end x="3" y="734"/>
+            </separator>
+        </block>
+        <block blockType="Separator" l="267" t="63" r="274" b="3494">
+            <region>
+                <rect l="269" t="63" r="274" b="341"/>
+                <rect l="269" t="341" r="273" b="591"/>
+                <rect l="269" t="591" r="274" b="595"/>
+                <rect l="269" t="595" r="273" b="596"/>
+                <rect l="268" t="596" r="273" b="600"/>
+                <rect l="269" t="600" r="273" b="1159"/>
+                <rect l="268" t="1159" r="272" b="1536"/>
+                <rect l="267" t="1536" r="272" b="1761"/>
+                <rect l="267" t="1761" r="273" b="1771"/>
+                <rect l="268" t="1771" r="273" b="2932"/>
+                <rect l="268" t="2932" r="274" b="2941"/>
+                <rect l="269" t="2941" r="274" b="3494"/>
+            </region>
+            <separator type="Black" thickness="4">
+                <start x="273" y="63"/>
+                <end x="273" y="3494"/>
+            </separator>
+        </block>
+        <block blockType="Separator" l="282" t="63" r="289" b="3494">
+            <region>
+                <rect l="285" t="63" r="289" b="267"/>
+                <rect l="283" t="267" r="288" b="591"/>
+                <rect l="283" t="591" r="289" b="600"/>
+                <rect l="284" t="600" r="289" b="1065"/>
+                <rect l="283" t="1065" r="287" b="1566"/>
+                <rect l="282" t="1566" r="287" b="1761"/>
+                <rect l="282" t="1761" r="288" b="1771"/>
+                <rect l="283" t="1771" r="288" b="2932"/>
+                <rect l="283" t="2932" r="289" b="2941"/>
+                <rect l="284" t="2941" r="289" b="3494"/>
+            </region>
+            <separator type="Black" thickness="4">
+                <start x="288" y="63"/>
+                <end x="288" y="3494"/>
+            </separator>
+        </block>
+        <block blockType="Separator" l="2405" t="48" r="2412" b="3489">
+            <region>
+                <rect l="2406" t="48" r="2411" b="591"/>
+                <rect l="2406" t="591" r="2412" b="596"/>
+                <rect l="2406" t="596" r="2410" b="597"/>
+                <rect l="2405" t="597" r="2410" b="600"/>
+                <rect l="2406" t="600" r="2410" b="1761"/>
+                <rect l="2406" t="1761" r="2411" b="1771"/>
+                <rect l="2407" t="1771" r="2411" b="2559"/>
+                <rect l="2405" t="2559" r="2410" b="2932"/>
+                <rect l="2405" t="2932" r="2411" b="2941"/>
+                <rect l="2406" t="2941" r="2411" b="3489"/>
+            </region>
+            <separator type="Black" thickness="4">
+                <start x="2410" y="50"/>
+                <end x="2410" y="3491"/>
+            </separator>
+        </block>
+        <block blockType="Separator" l="2552" t="554" r="2555" b="724">
+            <region>
+                <rect l="2552" t="554" r="2554" b="591"/>
+                <rect l="2552" t="591" r="2555" b="600"/>
+                <rect l="2553" t="600" r="2555" b="724"/>
+            </region>
+            <separator type="Black" thickness="2">
+                <start x="2556" y="556"/>
+                <end x="2556" y="726"/>
+            </separator>
+        </block>
+        <block blockType="Separator" l="0" t="32" r="2" b="230">
+            <region>
+                <rect l="0" t="32" r="2" b="230"/>
+            </region>
+            <separator type="Dotted" thickness="2">
+                <start x="4" y="32"/>
+                <end x="4" y="230"/>
+            </separator>
+        </block>
+    </page>
+</document>
