@@ -21,9 +21,12 @@ defmodule LegalmationWeb.Router do
   end
 
   # Other scopes may use custom stacks.
-  # scope "/api", LegalmationWeb do
-  #   pipe_through :api
-  # end
+  scope "/api" do
+    pipe_through :api
+
+    forward "/graphql", Absinthe.Plug, schema: LegalmationWeb.Schema
+    forward "/graphiql", Absinthe.Plug.GraphiQL, schema: LegalmationWeb.Schema
+  end
 
   # Enable LiveDashboard and Swoosh mailbox preview in development
   if Application.compile_env(:legalmation, :dev_routes) do

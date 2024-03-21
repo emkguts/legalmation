@@ -1,6 +1,7 @@
 defmodule Legalmation.Documents.Document do
   use Legalmation.Schema
   import Ecto.Changeset
+  import Ecto.Query
 
   schema "documents" do
     field :filename, :string
@@ -18,4 +19,8 @@ defmodule Legalmation.Documents.Document do
     ])
     |> unique_constraint(:filename)
   end
+
+  def order_by_filename(query), do: order_by(query, [d], d.filename)
+
+  def where_filename(query, fname), do: where(query, filename: ^fname)
 end
