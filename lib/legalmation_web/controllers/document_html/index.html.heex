@@ -1,0 +1,32 @@
+<%= form_for @conn.params, @action, [multipart: true], fn f -> %>
+  <%= label(f, :file) %>
+  <%= file_input(f, :file) %>
+
+  <%= submit("Upload") %>
+<% end %>
+
+<br />
+<br />
+
+<h1>Documents</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Filename</th>
+      <th>Plaintiff</th>
+      <th>Defendant</th>
+    </tr>
+  </thead>
+  <tbody>
+    <%= for document <- @documents do %>
+      <tr>
+        <td><%= document["id"] %></td>
+        <td><%= document["filename"] %></td>
+        <td><%= document["plaintiff"] %></td>
+        <td><%= document["defendant"] %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>

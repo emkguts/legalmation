@@ -18,6 +18,9 @@ defmodule LegalmationWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :home
+
+    get "/documents", DocumentController, :index
+    post "/documents", DocumentController, :upload
   end
 
   # Other scopes may use custom stacks.
