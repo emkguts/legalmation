@@ -83,7 +83,8 @@ defmodule Legalmation.MixProject do
         "tailwind legalmation --minify",
         "esbuild legalmation --minify",
         "phx.digest"
-      ]
+      ],
+      "gen.api.json": ["absinthe.schema.json --schema LegalmationWeb.Schema"]
     ]
   end
 end

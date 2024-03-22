@@ -1,4 +1,7 @@
 defmodule Legalmation.Documents.Document do
+  @moduledoc """
+  Schema for document upload and relevant query wrapper functions
+  """
   use Legalmation.Schema
   import Ecto.Changeset
   import Ecto.Query
